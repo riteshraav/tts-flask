@@ -2,4 +2,4 @@ Flask
 flask-cors
 torch
 torchaudio
-chatterbox
+git+https://github.com/resemble-ai/chatterbox.git
